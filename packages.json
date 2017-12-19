@@ -1,0 +1,15 @@
+{
+  "packages": {
+    "teamdevsquad/jquery-minicolors": {
+      "v2.2.7": {
+        "name": "jquery-minicolors",
+        "dist": {
+          "type": "zip",
+          "url": "https://github.com/teamdevsquad/jquery-minicolors/archive/2.2.7.zip"
+        },
+        "type": "package",
+        "version": "2.2.7"
+      }
+    }
+  }
+}
