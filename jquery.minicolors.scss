@@ -1,9 +1,11 @@
+$minicolors-image: $minicolors-image-path + "jquery.minicolors.png";
+
 .minicolors {
   position: relative;
 }
 
 .minicolors-sprite {
-  background-image: url(jquery.minicolors.png);
+  background-image: url($minicolors-image);
 }
 
 .minicolors-swatch {
